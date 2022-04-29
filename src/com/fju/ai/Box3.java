@@ -5,3 +5,4 @@ public class Box3 extends Box {
         super(30,30,30);
     }
 }
+ 
